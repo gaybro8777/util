@@ -32,7 +32,7 @@
         <!-- Other dependencies -->
         <commons-io.version>2.6</commons-io.version>
         <guava.version>27.0.1-jre</guava.version>
-        <hibernate.version>5.4.1.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
     </properties>
 
     <distributionManagement>
